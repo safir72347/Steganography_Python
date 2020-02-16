@@ -1,0 +1,13 @@
+-----------------------------------------------
+              |Encoding Steps|
+-----------------------------------------------
+
+STEP 1 : Click on Browse button and select a image ('png' format most preferred)
+
+STEP 2 : Click on Encode button
+
+STEP 3 : Enter the message to be encoded
+
+STEP 4 : Enter the new image name (with '.png' extension)
+
+STEP 5 : After successful encoding, click on Save to add the data as a history to the database

@@ -1,0 +1,9 @@
+-----------------------------------------------
+              |Decoding Steps|
+-----------------------------------------------
+
+STEP 1 : Click on Browse button and select a image ('png' format most preferred)
+
+STEP 2 : Click on Decode button
+
+STEP 3 : After successful decoding, click on Save to add the data as a history to the database
