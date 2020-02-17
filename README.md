@@ -27,5 +27,5 @@ Run python StegnoKing.py OR Run SteganoKing.exe
 5. Reset Application   =>   Ctrl + R
 6. Close Application   =>   Ctrl + Q
 ## Built with
-[Python](www.python.org) - A High Level General Purpose Programing Language
-[PyQt5](https://pypi.org/project/PyQt5/) - A comprehensive set of Python bindings for Qt v5 for best GUI
+1. [Python](www.python.org) - A High Level General Purpose Programing Language
+2. [PyQt5](https://pypi.org/project/PyQt5/) - A comprehensive set of Python bindings for Qt v5 for best GUI
