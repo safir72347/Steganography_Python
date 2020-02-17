@@ -10,22 +10,22 @@ This Project basically accepts an image file and a message and encodes it into t
 Run python StegnoKing.py OR Run SteganoKing.exe
 ### Steps
 #### 1. Encoding Steps
-STEP 1 : Click on Browse button and select a image ('png' format most preferred)
-STEP 2 : Click on Encode button
-STEP 3 : Enter the message to be encoded
-STEP 4 : Enter the new image name (with '.png' extension)
-STEP 5 : After successful encoding, click on Save to add the data as a history to the database
-#### 1. Decoding Steps
-STEP 1 : Click on Browse button and select a image ('png' format most preferred)
-STEP 2 : Click on Decode button
-STEP 3 : After successful decoding, click on Save to add the data as a history to the database
+1. Click on Browse button and select a image ('png' format most preferred)
+2. Click on Encode button
+3. Enter the message to be encoded
+4. Enter the new image name (with '.png' extension)
+5. After successful encoding, click on Save to add the data as a history to the database
+#### 2. Decoding Steps
+1. Click on Browse button and select a image ('png' format most preferred)
+2. Click on Decode button
+3. After successful decoding, click on Save to add the data as a history to the database
 ### Shortcuts
-Browse Image        =>   Ctrl + B
-Encode Image        =>   Ctrl + E
-Decode Image        =>   Ctrl + D
-Save Data           =>   Ctrl + S
-Reset Application   =>   Ctrl + R
-Close Application   =>   Ctrl + Q
+1. Browse Image        =>   Ctrl + B
+2. Encode Image        =>   Ctrl + E
+3. Decode Image        =>   Ctrl + D
+4. Save Data           =>   Ctrl + S
+5. Reset Application   =>   Ctrl + R
+6. Close Application   =>   Ctrl + Q
 ## Built with
 [Python](www.python.org) - A High Level General Purpose Programing Language
 [PyQt5](https://pypi.org/project/PyQt5/) - A comprehensive set of Python bindings for Qt v5 for best GUI
